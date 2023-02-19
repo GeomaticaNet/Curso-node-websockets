@@ -1,5 +1,5 @@
-#CURSO NODE
+# Socket Server Basico
 
-Websockets: socket.io
+Un servidor de Websockets usando Node, Express y Socket.io
 
-`` npm install ``
+Temas cubiertos en curso de Node de cero a experto
